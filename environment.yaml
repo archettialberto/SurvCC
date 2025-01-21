@@ -1,0 +1,9 @@
+name: survcc
+channels:
+  - defaults
+dependencies:
+  - pip=24.2
+  - python=3.11.11
+  - urllib3=1.26.7
+  - virtualenv=20.17.1
+  - wheel=0.44.0
